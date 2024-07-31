@@ -38,7 +38,7 @@
 3. **Run the Script:**
    - Execute the script from the terminal:
      ```bash
-     ./filemgr
+     sudo ./filemgr
      ```
 
 4. **Follow the Prompts:**
