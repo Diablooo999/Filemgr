@@ -46,9 +46,3 @@
    - **Enter Search Term**: Provide the name or pattern of the file or directory you want to track.
    - **Select Action**: Choose a file or directory from the search results and confirm deletion if needed.
 
-## Example Usage
-
-### To Manage Files:
-1. Run the script:
-   ```bash
-   ./filemgr
