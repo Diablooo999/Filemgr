@@ -27,7 +27,7 @@
      ```bash
      git clone https://github.com/username/filemgr.git
      ```
-   - Or download the script file directly from the [GitHub repository](https://github.com/username/filemgr).
+   - Or download the script file directly from the [GitHub repository](https://github.com/Diablooo999/filemgr).
 
 2. **Make the Script Executable:**
    - Change the script's permissions to make it executable:
