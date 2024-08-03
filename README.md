@@ -25,7 +25,7 @@
 1. **Clone or Download the Repository:**
    - Clone the repository using Git:
      ```bash
-     git clone https://github.com/username/filemgr.git
+     git clone https://github.com/Diablooo999/filemgr.git
      ```
    - Or download the script file directly from the [GitHub repository](https://github.com/Diablooo999/filemgr).
 
